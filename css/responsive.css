@@ -123,4 +123,8 @@
 	#services{
 		height: 170vh;
 	}
+
+	.content img{
+		margin: auto;
+	}
 }
