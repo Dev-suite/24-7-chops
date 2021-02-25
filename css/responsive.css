@@ -103,8 +103,8 @@
 
 	.text{
 		width: 100%;
-		margin-left: -12px;
-		margin-top: 40px;
+		margin-left: -8px;
+		margin-top: 60px;
 	}
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
