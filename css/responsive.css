@@ -85,7 +85,7 @@
 		border-radius: 0px 0px 50px 50px;
 	}
 	#services{
-		height: 250vh;
+		height: 220vh;
 	}
 
 	.col-lg-2 .card{
@@ -126,6 +126,28 @@
 	}
 	#services{
 		height: 220vh;
+	}
+	.col-lg-2 .card{
+		margin-top: -180px;
+	}
+
+	.card{
+		width: 100%;
+	}
+
+	.content{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+	.text{
+		width: 100%;
+		margin-left: -6px;
+		margin-top: 70px;
+	}
+
+	.content img{
+		margin-left: 72px !important;
 	}
 
 	
