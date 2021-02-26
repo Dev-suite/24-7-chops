@@ -85,7 +85,7 @@
 		border-radius: 0px 0px 50px 50px;
 	}
 	#services{
-		height: 240vh;
+		height: 265vh;
 	}
 
 	.col-lg-2 .card{
@@ -108,7 +108,7 @@
 	}
 
 	.content img{
-		margin-left: 55px !important;
+		margin-left: 65px !important;
 	}
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
