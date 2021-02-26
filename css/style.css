@@ -576,9 +576,9 @@ button:focus{
 -------------------------------------------------------------------*/
 
 #services{
-    height: 125vh;
+    height: 145vh;
     margin-top: 100px;
-    margin-bottom: 110px;
+    margin-bottom: 130px;
 }
 
 .ca{
@@ -586,7 +586,7 @@ button:focus{
 }
 
 .card{
-    height: 370px;
+    height: 390px;
     border: none;
     border-radius:15px;
     width: 280px;
@@ -603,7 +603,7 @@ button:focus{
 
 .card h2{
     text-align: center;
-    margin-top: 20px;
+    margin-top: 15px;
     font-size: 25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 700;
@@ -623,7 +623,6 @@ button:focus{
 
 .col-lg-2{
     margin-top: 200px;
- 
 }
 
 .text{
