@@ -85,7 +85,7 @@
 		border-radius: 0px 0px 50px 50px;
 	}
 	#services{
-		height: 265vh;
+		height: 180vh;
 	}
 
 	.col-lg-2 .card{
@@ -108,7 +108,7 @@
 	}
 
 	.content img{
-		margin-left: 65px !important;
+		margin-left: 75px !important;
 	}
 }
 @media only screen and (min-width: 280px) and (max-width: 599px) {
@@ -125,7 +125,7 @@
 		padding: 5px;
 	}
 	#services{
-		height: 190vh;
+		height: 220vh;
 	}
 
 	
